@@ -1,0 +1,10 @@
+Id,firstName,lastName,salary,managerId
+123,Joe,Doe,60000,0
+124,Martin,Chekov,45000,123
+125,Bob,Ronstad,47000,123
+300,Alice,Hasacat,50000,124
+305,Brett,Hardleaf,36000,300
+306,Pragati,Prusty,44000,300
+307,Pragati,K Prusty,44000,300
+308,Pragati,R Prusty,44000,300
+309,Pragati,P Prusty,44000,300
